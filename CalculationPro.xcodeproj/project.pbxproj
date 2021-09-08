@@ -15,6 +15,7 @@
 		8393DBBB26E8A3CB00D8CD0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8393DBB926E8A3CB00D8CD0D /* LaunchScreen.storyboard */; };
 		8393DBC626E8A3CB00D8CD0D /* CalculationProTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8393DBC526E8A3CB00D8CD0D /* CalculationProTests.swift */; };
 		8393DBD126E8A3CB00D8CD0D /* CalculationProUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8393DBD026E8A3CB00D8CD0D /* CalculationProUITests.swift */; };
+		8393DBDF26E8F8C900D8CD0D /* CalculatorButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8393DBDE26E8F8C900D8CD0D /* CalculatorButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8393DBCC26E8A3CB00D8CD0D /* CalculationProUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculationProUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8393DBD026E8A3CB00D8CD0D /* CalculationProUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculationProUITests.swift; sourceTree = "<group>"; };
 		8393DBD226E8A3CB00D8CD0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8393DBDE26E8F8C900D8CD0D /* CalculatorButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8393DBAE26E8A3CA00D8CD0D /* AppDelegate.swift */,
 				8393DBB026E8A3CA00D8CD0D /* SceneDelegate.swift */,
 				8393DBB226E8A3CA00D8CD0D /* ContentView.swift */,
+				8393DBDE26E8F8C900D8CD0D /* CalculatorButtonView.swift */,
 				8393DBB426E8A3CB00D8CD0D /* Assets.xcassets */,
 				8393DBB926E8A3CB00D8CD0D /* LaunchScreen.storyboard */,
 				8393DBBC26E8A3CB00D8CD0D /* Info.plist */,
@@ -268,6 +271,7 @@
 			files = (
 				8393DBAF26E8A3CA00D8CD0D /* AppDelegate.swift in Sources */,
 				8393DBB126E8A3CA00D8CD0D /* SceneDelegate.swift in Sources */,
+				8393DBDF26E8F8C900D8CD0D /* CalculatorButtonView.swift in Sources */,
 				8393DBB326E8A3CA00D8CD0D /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
