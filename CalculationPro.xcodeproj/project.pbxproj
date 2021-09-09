@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		83159D1B26E9E4F900E51531 /* CalculationButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83159D1A26E9E4F900E51531 /* CalculationButton.swift */; };
 		8393DBAF26E8A3CA00D8CD0D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8393DBAE26E8A3CA00D8CD0D /* AppDelegate.swift */; };
 		8393DBB126E8A3CA00D8CD0D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8393DBB026E8A3CA00D8CD0D /* SceneDelegate.swift */; };
 		8393DBB326E8A3CA00D8CD0D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8393DBB226E8A3CA00D8CD0D /* ContentView.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		83159D1A26E9E4F900E51531 /* CalculationButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculationButton.swift; sourceTree = "<group>"; };
 		8393DBAB26E8A3CA00D8CD0D /* CalculationPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculationPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8393DBAE26E8A3CA00D8CD0D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8393DBB026E8A3CA00D8CD0D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				8393DBB026E8A3CA00D8CD0D /* SceneDelegate.swift */,
 				8393DBB226E8A3CA00D8CD0D /* ContentView.swift */,
 				8393DBDE26E8F8C900D8CD0D /* CalculatorButtonView.swift */,
+				83159D1A26E9E4F900E51531 /* CalculationButton.swift */,
 				8393DBB426E8A3CB00D8CD0D /* Assets.xcassets */,
 				8393DBB926E8A3CB00D8CD0D /* LaunchScreen.storyboard */,
 				8393DBBC26E8A3CB00D8CD0D /* Info.plist */,
@@ -273,6 +276,7 @@
 				8393DBB126E8A3CA00D8CD0D /* SceneDelegate.swift in Sources */,
 				8393DBDF26E8F8C900D8CD0D /* CalculatorButtonView.swift in Sources */,
 				8393DBB326E8A3CA00D8CD0D /* ContentView.swift in Sources */,
+				83159D1B26E9E4F900E51531 /* CalculationButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
